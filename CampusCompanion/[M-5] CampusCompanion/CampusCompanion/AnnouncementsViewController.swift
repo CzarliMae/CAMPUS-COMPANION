@@ -1,7 +1,7 @@
 import UIKit
 import CoreData
 
-class AnnouncementsViewController: UITableViewController {
+class AnnouncementsViewController: UITableViewController { 
 
     private enum RemoteEndpoint {
         static let announcements =
